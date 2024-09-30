@@ -27,7 +27,7 @@ def timerInterruptCallback(timer):
         lcd.setCursor(0, 1)
         lcd.print("Ambient : " + str(Ambient))
     
-timer.init(mode=Timer.PERIODIC, period=500, callback=timerInterruptCallback)
+timer.init(mode=Timer.PERIODIC, period=200, callback=timerInterruptCallback)
 
 lcd.display()
 Buzzer.duty_u16(0)
