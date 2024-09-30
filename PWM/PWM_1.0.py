@@ -1,5 +1,4 @@
 # PWM version 1.0 
-# mute non fonctionnel
 
 from machine import Pin, ADC, PWM, Timer
 from time import sleep
