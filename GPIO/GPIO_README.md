@@ -1,4 +1,4 @@
-Les consignes exactes de cet exercice se trouvent dans ce PDF:
+Les consignes exactes de cet exercice se trouvent dans ce PDF : 
 [Exercice1.pdf](https://github.com/user-attachments/files/17187539/Exercice1.pdf)
 
 Les différents modules sont connectés comme suit :
