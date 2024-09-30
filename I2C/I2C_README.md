@@ -1,3 +1,5 @@
+Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice3.pdf](https://github.com/user-attachments/files/17187571/Exercice3.pdf)
+
 Les différents modules sont connectés comme suit :
 - DHT11 sur Pin16
 - LED sur Pin18
