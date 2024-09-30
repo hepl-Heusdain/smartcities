@@ -1,3 +1,5 @@
+Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice2.pdf](https://github.com/user-attachments/files/17187555/Exercice2.pdf)
+
 Les différents modules sont connectés comme suit :
 - Buzzer sur Pin27
 - Potentiomètre sur ADC0
