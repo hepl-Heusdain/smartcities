@@ -1,4 +1,4 @@
-Les différents modules sont connectés comem suit :
+Les différents modules sont connectés comme suit :
 - DHT11 sur Pin16
 - LED sur Pin18
 - Buzzer sur Pin20
