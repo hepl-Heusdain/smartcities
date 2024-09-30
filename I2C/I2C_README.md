@@ -10,8 +10,8 @@ Les différents modules sont connectés comme suit :
 
 Affiche la valeur de l'ADC sur le LCD
 
-
 [I2C_2.0.py](https://github.com/hepl-Heusdain/smartcities/blob/main/I2C/I2C_2.0.py)
+
 Lecture et affichage des valeurs Set (fixée par le potentiomètre) & Ambient (via le DHT11)
 
 [I2C_3.0.py](https://github.com/hepl-Heusdain/smartcities/blob/main/I2C/I2C_3.0.py)
