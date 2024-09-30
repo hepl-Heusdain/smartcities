@@ -1,3 +1,6 @@
+# I2C_1.0.py 
+# Affichage de la valeur d'un ADC sur 16bits
+
 from machine import I2C, Pin, ADC
 from time import sleep
 from lcd1602 import LCD1602
