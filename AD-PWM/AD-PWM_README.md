@@ -1,3 +1,4 @@
+Il nous est demandé d'écrire un code permettant de jouer une mélodie à l'aide d'un Buzzer.
 Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice2.pdf](https://github.com/user-attachments/files/17187555/Exercice2.pdf)
 
 Les différents modules sont connectés comme suit :
