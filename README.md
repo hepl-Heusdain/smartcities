@@ -26,7 +26,7 @@ Les caractéristiques les plus notables de ce microcontrôleur sont les suivante
 ![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/7db5d3e3-2b80-4f3e-994b-bcd2d8b20a01)
 
 ## MicroPython
-![micropython](https://github.com/user-attachments/assets/ec90a4c3-982b-4fb8-b75e-1d65928edb25)
+![micropython_title-900x480](https://github.com/user-attachments/assets/97c1f849-74d6-49c1-ad9a-27ffa144ec24)
 
 MicroPython est un portage du langage Python sur micro-contrôleurs. Voici une vue d'ensemble de la structure de Micropython comprenant :
 - Le portage complet des mots-clés, des objets Python et des fonctions built-in
