@@ -1,3 +1,4 @@
+## Description
 Il nous est demandé d'écrire un code réalisant une horloge en utilisant un Servomoteur. L'heure doit être récupérée à partir d'internet.
 Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice5.pdf](https://github.com/user-attachments/files/17396724/Exercice5.pdf)
 
@@ -5,6 +6,7 @@ Les différents modules sont connectés comme suit :
 - Servomteur sur Pin26
 - Bouton poussoir sur Pin18
 
+## Versions
 [network_1.0.py](https://github.com/hepl-Heusdain/smartcities/blob/main/network/network_1.0.py)
 
 Récupère l'heure via la connection WiFi et fait varier la position du servomoteur en fonction sur une base de 12H
@@ -13,5 +15,6 @@ Récupère l'heure via la connection WiFi et fait varier la position du servomot
 
 Permet de changer de base de temps (h12 ou h24) par deux pression rapide du bouton poussoir (instable)
 
+## Rpi Pinout
 ![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/a88ab59c-e48d-4154-8099-57b1d01e0204)
 
