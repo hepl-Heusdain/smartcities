@@ -24,4 +24,5 @@ Ajout des fonctions relatives au delta entre Set et Ambient
 
 "ALARM" clignotte maintenant lur le LCD lorsque Ambient >> Set
 
-![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/769ba007-b2aa-41cb-a855-35c6bf710a28)
+![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/a88ab59c-e48d-4154-8099-57b1d01e0204)
+
