@@ -2,12 +2,8 @@ Il nous est demandé d'écrire un code réalisant une horloge en utilisant un Se
 Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice5.pdf](https://github.com/user-attachments/files/17396724/Exercice5.pdf)
 
 Les différents modules sont connectés comme suit :
-- DHT11 sur Pin16
-- LED sur Pin18
-- Buzzer sur Pin20
-- LCD sur I2C1
-- Potentiomètre sur ADC0
-
+- Servomteur sur Pin26
+- Bouton poussoir sur Pin18
 
 [network_1.0.py](https://github.com/hepl-Heusdain/smartcities/blob/main/network/network_1.0.py)
 
