@@ -1,3 +1,4 @@
+Il nous est demandé d'écrire un code permettant d'afficher la température actuelle ainsi que de la comparer à une valeur fixée via un potentiomètre. Certaines actions doivent ainsi être effectuées si la température fixée est plus basse que la température lue par le capteur.
 Les consignes exactes de cet exercice se trouvent dans ce PDF : [Exercice3.pdf](https://github.com/user-attachments/files/17187571/Exercice3.pdf)
 
 Les différents modules sont connectés comme suit :
