@@ -20,4 +20,5 @@ Joue une mélodie grâce au buzzer
     - permet maintenant de choisir l'octave voulue pour chaque note
 - ébauche non terminée du code permettant de changer de mélodie
 
-![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/cceee934-d5e4-4459-bb2c-24b02900156c)
+![302113634-20d19fc4-b9c3-4903-9ec8-b62cda90aee3](https://github.com/user-attachments/assets/ce8e1dc2-699c-4c7a-8bf7-f8bdfdcd9692)
+
