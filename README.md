@@ -38,5 +38,8 @@ MicroPython est un portage du langage Python sur micro-contrôleurs. Voici une v
 ## Visual Studio Code
 ![images](https://github.com/user-attachments/assets/180d1813-f16b-48f0-8601-769d74500022)
 
-Mon choix d'environement de programmation s'est porté sur Visual Studio Code. Il s'agit d'un IDE permettant de programmer dans pratiquement tous les langages de programmation existants. Cet IDE possède une collection d'extensions le rendant très flexible et permettant nottament (contrairement à Thonny) de lier le répertoire de travail à GitHub sans devoir passer pas un logiciel tiers.
+Mon choix d'environement de programmation s'est porté sur Visual Studio Code. Il s'agit d'un IDE permettant de programmer dans pratiquement tous les langages de programmation existants. 
+
+Cet IDE possède une collection d'extensions le rendant très flexible et permettant nottament (contrairement à Thonny) de lier le répertoire de travail à GitHub sans devoir passer pas un logiciel tiers.
+
 La programmation en Micropython sur le Raspberry Pi Pico W nécessite simplement l'ajout de l'extension MicroPico
