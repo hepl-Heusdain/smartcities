@@ -27,15 +27,10 @@ Les caractéristiques les plus notables de ce microcontrôleur sont les suivante
 
 ## MicroPython
 MicroPython est un portage du langage Python sur micro-contrôleurs. Voici une vue d'ensemble de la structure de Micropython qui comprend :
-
-    le portage complet des mots-clés, des objets Python et des fonctions built-in... ce qui est en soi constitue déjà une base essentielle.
-
-    le portage d'une 20aine de modules standards, certes dans un format allégé et finalement adapté au contexte du microcontrôleur, mais avec à chaque fois les fonctions essentielles. Notamment, les modules re (expressions régulières), time, sys, os, io, math et même cmath sont portés en Micropython et à ce titre élèvent Micropython, selon moi, au rang de "micro-OS", en tout cas, très au-dessus d'un langage compilé.
-
-    des modules spécifiques Micropython qui rassemblent les classes et fonctions communes dans le cadre d'une utilisation sur base microcontrôleur.
-
-    des modues dédiés par plateforme, fournissant les classes et fonctions spécifiques à une carte précise
-
-    des modules "librairies" enfin qui fournissent les fonctionnalités matérielles utiles pour l'utilisation de cartes, capteurs, modules dédiés dans un contexte micro-contrôleur.
+- le portage complet des mots-clés, des objets Python et des fonctions built-in... ce qui est en soi constitue déjà une base essentielle.
+- le portage d'une 20aine de modules standards, certes dans un format allégé et finalement adapté au contexte du microcontrôleur, mais avec à chaque fois les fonctions essentielles. Notamment, les modules re (expressions régulières), time, sys, os, io, math et même cmath sont portés en Micropython et à ce titre élèvent Micropython, selon moi, au rang de "micro-OS", en tout cas, très au-dessus d'un langage compilé.
+- des modules spécifiques Micropython qui rassemblent les classes et fonctions communes dans le cadre d'une utilisation sur base microcontrôleur.
+- des modues dédiés par plateforme, fournissant les classes et fonctions spécifiques à une carte précise
+- des modules "librairies" enfin qui fournissent les fonctionnalités matérielles utiles pour l'utilisation de cartes, capteurs, modules dédiés dans un contexte micro-contrôleur.
 
 
